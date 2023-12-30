@@ -17,7 +17,7 @@ export default function Footer() {
 
 
         <div className="space-y-6">
-        <h1 className="text-teal-400 text-3xl mt-4">Follow us on:</h1>
+        <h1 className="text-teal-400 text-3xl mt-4">Follow Us On:</h1>
 
         <div className="flex space-x-11">
         <img src="/images/instagram.png" className="h-6 w-6"/>
